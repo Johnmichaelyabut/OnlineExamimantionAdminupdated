@@ -1,0 +1,193 @@
+#img{
+	height: 1in;
+	width: 2in;
+	margin-top: 90px;
+}
+#adminName{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+#category{
+	margin-left: 70px;
+}
+#logout{
+	width: 192px;
+	height: 40px;
+	margin-top: 30px;
+}
+#choice{
+	width: 640px;
+	margin-left: 10px;
+}
+#button1{
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 110px;
+}
+#button2{
+	border-radius: 10px;
+	float: right;
+	margin-top: -111px;
+	margin-right: 20px;
+	height: 110px;
+}
+#button3{
+	border-radius: 10px;
+	margin-left: 190px;
+	margin-top: 10px;
+	height: 110px;
+}
+#button1:hover{
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 110px;
+	box-shadow: 0px 13px 20px rgba(0,09,9,18.5);
+}
+#button2:hover{
+	border-radius: 10px;
+	float: right;
+	margin-top: -111px;
+	margin-right: 20px;
+	height: 110px;
+	box-shadow: 0px 13px 20px rgba(0,09,9,18.5);
+}
+#button3:hover{
+	border-radius: 10px;
+	margin-left: 190px;
+	margin-top: 10px;
+	height: 110px;
+	box-shadow: 0px 13px 20px rgba(0,09,9,18.5);
+}
+#questionaire,
+#back{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	box-shadow: 0px 3px 80px rgba(0,09,9,18.5);
+	position:none;
+	width: 600px;
+	border-radius: 40px;
+}
+#WorkSpace{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	box-shadow: 0px 3px 80px rgba(0,09,9,18.5);
+	position:none;
+	width: 600px;
+	border-radius: 40px;
+}
+button#update{
+	height: 30px;
+	width: 120px;
+	float: right;
+	margin-right: 48px;
+}
+button#delete{
+	height: 30px;
+	width: 120px;
+	float: right;
+	margin-right: 20px;
+}
+div#cut{
+	margin-top: 40px;
+}
+textarea#quest{
+	resize:none;
+	width: 500px;
+	height: 40px;
+}
+input#A,
+input#B{
+	width: 200px;
+	height: 40px;
+	margin-left: 10px;
+}
+input#C,
+input#D{
+	width: 200px;
+	height: 40px;
+	margin-left: 10px;
+}
+div#a,
+div#de{
+	margin-left: 80px;
+}
+div#answer{
+	margin-left: 180px;
+}
+button#action,
+button#action1{
+	width: 140px;
+	margin-left: 10px;
+	height: 30px;
+	float: right;
+}
+button#act{
+	width: 140px;
+	margin-left: 50px;
+	height: 30px;
+	float: left;
+}
+button#act1{
+	float: right;
+	width: 140px;
+	margin-left: 10px;
+	height: 30px;
+	margin-right: 160px;
+}
+h1#title{
+	margin-left: -130px;
+}
+button#but{
+	float: right;
+	margin-top: -80px;
+	margin-right: 130px;
+	width: 120px;
+}
+button#but1{
+	float: right;
+	margin-top: -80px;
+	width: 120px;
+	margin-right: 5px;
+}
+div#info{
+	margin-left: 40px;
+}
+div#basic1{
+	float: right;
+	margin-right: 200px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+div#basic2{
+	
+	margin-top: -100px;
+	margin-bottom: 10px;
+	margin-left: 150px;
+}
+select#sagots{
+	width: 100px;
+	height: 40px;
+	margin-left: 10px;
+}
+span#thisId{
+	margin-left: 35px;
+	font-size: 17px;
+}
+input#pangalan1{
+	margin-left: 15px;
+	font-size: 17px;
+	height: 40px;
+	width: 400px;
+}
+@media screen(min-width: 800px){
+
+
+	div{
+		display: none;
+	}
+
+}

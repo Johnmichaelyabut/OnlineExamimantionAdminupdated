@@ -1,0 +1,296 @@
+div#back-end,#back{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	box-shadow: 0px 3px 80px rgba(0,09,9,18.5);
+	position:none;
+	width: 600px;
+	border-radius: 40px;
+}
+div#R_esult,
+div#Report{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	box-shadow: 0px 3px 80px rgba(0,09,9,18.5);
+	position:none;
+	width: 600px;
+}
+input#ansa{
+	height: 30px;
+	margin-top: -3px;
+}
+span#a,#b,#c,#d{
+	margin-top: 5px;
+	margin-left: 10px;
+	font-size: 17px;
+}
+div#submit{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	position:none;
+	width: 600px;
+}
+div#result{
+	left:auto;
+	float: center;
+	margin-top: 110px;
+	position:none;
+	width: 600px;
+}
+button#start{
+	margin-left: 150px;
+	width: 300px;
+	height: 50px;
+}
+button#start1{
+	float: right;
+	margin-right: 10px;
+	margin-top: -10px;
+	width: 200px;
+	height: 40px;
+}
+button#start2{
+	float: right;
+	margin-right: 110px;
+	width: 200px;
+	height: 40px;
+}
+span#timer{
+	float:right;
+	margin-top: -80px;
+	font-size: 3em;
+}
+div#QUEST{
+	font-size: 17px;
+}
+div#foot{
+	margin-top: 30px;
+}
+.btnReserve{
+    margin-top: -115px;
+    margin-right: 30px;
+    float:right;
+    background-image: -webkit-gradient(linear, 0 0, 0 45%, from(#7c828d), to(000066));
+    color: white;
+    width: 100px;
+}
+.back7{
+    background-image:url('http://C:/xampp/htdocs/Banner/img/logolibrary copy.PNG');
+    height: 60px;
+    width: auto;
+    left:auto;
+    right: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    background-image: -webkit-gradient(linear, 0 9, 0 55%, from(#7c828d), to(000033));
+}
+.marg3{
+	margin-left: 40px;
+
+}
+.marg4{
+	width: 1200px;
+}
+img#img{
+	height: 130px;
+	width: 150px;
+	margin-left: 20px;
+	margin-top: -80px;
+}
+h1#logintitle{
+	float: right;
+	font-size: 2em;
+	color: white;
+}
+input#user1:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 350px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#user1{
+	margin-left: 90px;
+	height: 40px;
+	width: 350px;
+}
+input#pass2{
+	margin-left: 90px;
+	height: 40px;
+	width: 350px;
+}
+input#pass2:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 350px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#log{
+	margin-left: 90px;
+	width: 350px;
+	height: 40px;
+}
+input#fname{
+	margin-left: 90px;
+	height: 40px;
+	width: 200px;
+}
+input#fname:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 200px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#lname{
+	height: 40px;
+	width: 196px;
+}
+input#lname:focus{
+	height: 40px;
+	width: 200px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+#email2{
+	margin-left: 90px;
+	height: 40px;
+	width: 350px;
+}
+input#email2:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#email{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+}
+input#email:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#pass{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+}
+input#pass:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#pass1{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+}
+input#pass1:focus{
+	margin-left: 90px;
+	height: 40px;
+	width: 400px;
+	box-shadow: 0px 0px 0px 3px currentcolor, inset 0px 2px 0px rgba(0,0,0,0.2), 0px 5px 5px rgba(0,13,10,18.5);
+	background:#fff;
+	outline: none;
+	font-weight: bold;
+}
+input#submit{
+	margin-left: 90px;
+	width: 400px;
+	height: 40px;
+}
+input#a{
+	margin-left: 20px;
+	margin-top: -2px;
+}
+input#b,
+input#c,
+input#d{
+	margin-left: 20px;
+	margin-top: -2px;
+}
+span#choice1,
+span#choice2,
+span#choice3,
+span#choice4{
+	margin-left: 10px;
+}
+span#output{
+	float: left;
+	font-size: 1.5em;
+	margin-left: 130px;
+}
+span#output1{
+	float: right;
+	font-size: 1.5em;
+	margin-right: 130px;
+}
+div#out{
+	margin-bottom: 70px;
+}
+input#picture{
+	float: right;
+	width: 252px;
+	height: 40px; 
+	margin-right: 113px;
+	margin-top: -40px;
+	margin-bottom: 10px;
+}
+h5#attach{
+	margin-left: 92px;
+}
+#imgKo{
+	height: 1in;
+	box-shadow: 0px 3px 8px rgba(0,09,9,18.5);
+	border-radius: 10px;
+	width: 1in;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#examinee{
+	margin-left: 20px;
+	margin-top: -9px;
+}
+#para{
+	float:right;
+	margin-top: -140px;
+	font-size: 18px;
+	margin-right: 40px;
+	font-weight: bold;
+}
+div#name{
+	width: 140px;
+}
+@media screen(max-width: 800px){
+
+
+	div#back-end{
+		display: none;
+	}
+
+}
